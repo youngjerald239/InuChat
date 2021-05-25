@@ -1,7 +1,11 @@
 <div align="center">
 
-# Chatify
-
+# InuChat
+<h2 align="center">
+</h2>
+<div align="center">
+  <img src="https://i.imgur.com/eAHY3c2.png" />
+</div>
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
 ### https://chatify-49.web.app/
@@ -25,7 +29,7 @@
 
 ## Installation and Usage
 
-### Clone this repository
+### Clone the original creator's repository
 
 `git clone https://github.com/soumyajit4419/Chatify.git` <br/>
 `cd chatify`
