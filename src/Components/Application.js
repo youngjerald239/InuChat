@@ -295,7 +295,7 @@ function Application(props) {
               onClose={handleClose}
             >
               <MenuItem onClick={toggleEditProfile}>
-                <FaUserEdit /> &nbsp; Edit Profile
+                <FaUserEdit /> &nbsp; Edit Profile🐕
               </MenuItem>
 
               <MenuItem onClick={signOut}>

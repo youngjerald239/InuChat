@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "chatify-49"
+    "default": "inuchat-49",
+    "InuChat": "inuchat-bf919"
   }
 }
