@@ -7,7 +7,7 @@ const provider = new firebase.auth.GoogleAuthProvider();
 
 const firebaseConfig = {
   apiKey: "AIzaSyBq8he7iWMqBKwN6LIwSLdXZm7D0RXwMZQ",
-  authDomain: "inuchat-bf919.firebaseapp.com",
+  authDomain: "inuchat-bf919.web.app",
   projectId: "inuchat-bf919",
   storageBucket: "inuchat-bf919.appspot.com",
   messagingSenderId: "810558741988",
